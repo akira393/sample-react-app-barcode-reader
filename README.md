@@ -1,4 +1,4 @@
-# sample-app-barcode-reader
+# sample-react-app-barcode-reader
 
 [zxing](https://github.com/zxing-js/browser)を利用したバーコードリーダー機能を有するwebアプリ
 
